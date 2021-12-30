@@ -13,3 +13,6 @@ shell -$SHELL
 logtstamp on
 logtstamp after 1
 ```
+## References
+* https://thoughtbot.com/blog/migrating-from-screen-to-tmux
+* https://hobo.house/2016/07/16/tmux-for-gnu-screen-refugees-and-vim-users/
